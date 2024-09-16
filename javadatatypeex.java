@@ -13,4 +13,5 @@ System.out.println("Number of items: " + items);
 System.out.println("Cost per item: " + costPerItem + currency);
 System.out.println("Total cost = " + totalCost + currency);
 
-}}
+}
+}
